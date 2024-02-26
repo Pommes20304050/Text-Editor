@@ -23,9 +23,3 @@ Welcome to the Python Text Editor project! This simple text editor is designed t
 ## Dependencies
 
 - Python 3.x
-
-## Usage Example
-
-```python
-# Sample code snippet for using save and open functions
-# Insert your relevant code here
